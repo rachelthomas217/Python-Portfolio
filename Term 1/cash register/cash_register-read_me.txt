@@ -1,0 +1,1 @@
+This is how to calculate and create a receipt.

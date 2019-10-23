@@ -1,0 +1,1 @@
+This is a short and sweet way to create a die roll.

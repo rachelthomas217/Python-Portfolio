@@ -2,9 +2,7 @@
 #10/9/2019
 #Hangman
 
-#a classic game of hangman. The computer picks a random word
-#and the player trys to guess it one letter at a time.
-#if the player can't guess the word in time, the little stick figure dies.
+
 
 #imports
 import random
